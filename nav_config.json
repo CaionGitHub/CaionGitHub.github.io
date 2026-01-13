@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com",
+        "cat": "common"
+    },
+    {
+        "name": "百度",
+        "url": "https://www.baidu.com/",
+        "cat": "common"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Grok",
+        "url": "https://grok.com/",
+        "cat": "common"
+    },
+    {
+        "name": "X",
+        "url": "https://X.com/",
+        "cat": "common"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com",
+        "cat": "common"
+    },
+    {
+        "name": "ChatGPT",
+        "url": "https://chatgpt.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Gemini",
+        "url": "https://gemini.google.com/app",
+        "cat": "common"
+    },
+    {
+        "name": "Google AI Studio",
+        "url": "https://aistudio.google.com/prompts/new_chat",
+        "cat": "common"
+    },
+    {
+        "name": "Claude",
+        "url": "https://claude.ai/new",
+        "cat": "common"
+    },
+    {
+        "name": "Kimi",
+        "url": "https://www.kimi.com/",
+        "cat": "common"
+    },
+    {
+        "name": "豆包",
+        "url": "https://www.doubao.com/chat/",
+        "cat": "common"
+    },
+    {
+        "name": "Midjourney",
+        "url": "https://www.midjourney.com/",
+        "cat": "common"
+    },
+    {
+        "name": "DeepSeek",
+        "url": "https://chat.deepseek.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Suno",
+        "url": "https://suno.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Canva",
+        "url": "https://www.canva.com/",
+        "cat": "common"
+    },
+    {
+        "name": "测速网",
+        "url": "https://www.speedtest.cn/",
+        "cat": "common"
+    },
+    {
+        "name": "知乎",
+        "url": "https://www.zhihu.com/",
+        "cat": "common"
+    },
+    {
+        "name": "谷歌翻译",
+        "url": "https://translate.google.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Gmail",
+        "url": "https://mail.google.com",
+        "cat": "work"
+    },
+    {
+        "name": "Outlook",
+        "url": "https://outlook.live.com",
+        "cat": "work"
+    },
+    {
+        "name": "163邮箱",
+        "url": "https://mail.163.com/",
+        "cat": "work"
+    },
+    {
+        "name": "QQ邮箱",
+        "url": "https://mail.qq.com/",
+        "cat": "work"
+    },
+    {
+        "name": "安娜的档案",
+        "url": "https://annas-archive.li/",
+        "cat": "work"
+    },
+    {
+        "name": "Zlibrary",
+        "url": "https://zh.z-library.sk/",
+        "cat": "work"
+    },
+    {
+        "name": "接码平台",
+        "url": "https://5sim.net/zh/login",
+        "cat": "work"
+    },
+    {
+        "name": "魔戒",
+        "url": "https://mojie.me/#/login",
+        "cat": "work"
+    },
+    {
+        "name": "一云梯",
+        "url": "https://1ytcom01.1yunti.net/login",
+        "cat": "work"
+    },
+    {
+        "name": "钢筋面积",
+        "url": "http://www.morgain.com/Help/SpeadManual/SteelSectionAreaAndMassTable.htm",
+        "cat": "work"
+    },
+    {
+        "name": "图形计算器",
+        "url": "https://www.geogebra.org/graphing",
+        "cat": "work"
+    },
+    {
+        "name": "软仓",
+        "url": "https://www.ruancang.net/",
+        "cat": "work"
+    },
+    {
+        "name": "协筑资源",
+        "url": "https://www.webfree.net/",
+        "cat": "work"
+    },
+    {
+        "name": "建标库",
+        "url": "http://www.jianbiaoku.com/",
+        "cat": "work"
+    },
+    {
+        "name": "Drawio.io",
+        "url": "https://www.drawio.com/",
+        "cat": "work"
+    },
+    {
+        "name": "CAD字体",
+        "url": "https://www.cbage.com/",
+        "cat": "work"
+    },
+    {
+        "name": "腾讯文档",
+        "url": "https://docs.qq.com/",
+        "cat": "work"
+    },
+    {
+        "name": "金山文档",
+        "url": "https://www.kdocs.cn/",
+        "cat": "work"
+    },
+    {
+        "name": "盘大师",
+        "url": "https://www.pandashi8.com/",
+        "cat": "work"
+    },
+    {
+        "name": "Notion",
+        "url": "https://www.notion.com/",
+        "cat": "work"
+    },
+    {
+        "name": "优软汇",
+        "url": "https://www.youruanhui.com/",
+        "cat": "work"
+    },
+    {
+        "name": "MarkDown",
+        "url": "https://dillinger.io/",
+        "cat": "work"
+    },
+    {
+        "name": "Latexlive",
+        "url": "https://www.latexlive.com/",
+        "cat": "work"
+    },
+    {
+        "name": "Overleaf",
+        "url": "https://cn.overleaf.com/",
+        "cat": "work"
+    },
+    {
+        "name": "七猫作家",
+        "url": "https://zuozhe.qimao.com/front/index?t=1768275567290",
+        "cat": "work"
+    },
+    {
+        "name": "番茄短剧",
+        "url": "https://dramaland.com/page/playlet-workspace",
+        "cat": "work"
+    },
+    {
+        "name": "古籍电子书",
+        "url": "https://ctext.org/zh",
+        "cat": "work"
+    },
+    {
+        "name": "法律考试",
+        "url": "https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/",
+        "cat": "study"
+    },
+    {
+        "name": "一建考试",
+        "url": "http://www.cpta.com.cn/",
+        "cat": "study"
+    },
+    {
+        "name": "会计考试",
+        "url": "http://kzp.mof.gov.cn/",
+        "cat": "study"
+    },
+    {
+        "name": "觉晓法考",
+        "url": "https://www.juexiaotime.com/mycourse",
+        "cat": "study"
+    },
+    {
+        "name": "众合法考",
+        "url": "https://www.zhumavip.com/",
+        "cat": "study"
+    },
+    {
+        "name": "之了课堂",
+        "url": "https://www.zlketang.com/",
+        "cat": "study"
+    },
+    {
+        "name": "东奥会计",
+        "url": "https://www.dongao.com",
+        "cat": "study"
+    },
+    {
+        "name": "深圳图书馆",
+        "url": "https://www.szlib.org.cn/",
+        "cat": "study"
+    },
+    {
+        "name": "W3School",
+        "url": "https://www.w3school.com.cn/",
+        "cat": "study"
+    },
+    {
+        "name": "慕课",
+        "url": "https://www.icourse163.org/",
+        "cat": "study"
+    },
+    {
+        "name": "Matlab文档",
+        "url": "https://jp.mathworks.com/help/matlab/index.html",
+        "cat": "study"
+    },
+    {
+        "name": "Python文档",
+        "url": "https://docs.python.org/zh-cn/3/",
+        "cat": "study"
+    },
+    {
+        "name": "谷歌新闻",
+        "url": "https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "cat": "news"
+    },
+    {
+        "name": "AP News",
+        "url": "https://apnews.com",
+        "cat": "news"
+    },
+    {
+        "name": "纽约时报",
+        "url": "https://www.nytimes.com/",
+        "cat": "news"
+    },
+    {
+        "name": "华尔街日报",
+        "url": "https://www.wsj.com/",
+        "cat": "news"
+    },
+    {
+        "name": "BBC News",
+        "url": "https://www.bbc.com/news",
+        "cat": "news"
+    },
+    {
+        "name": "每日电讯",
+        "url": "https://www.telegraph.co.uk/",
+        "cat": "news"
+    },
+    {
+        "name": "彭博社",
+        "url": "https://www.bloomberg.com/jp",
+        "cat": "news"
+    },
+    {
+        "name": "彭博社中文",
+        "url": "https://bloombergnew.buzzing.cc/",
+        "cat": "news"
+    },
+    {
+        "name": "法广FRI",
+        "url": "https://www.rfi.fr",
+        "cat": "news"
+    },
+    {
+        "name": "德国之声",
+        "url": "https://www.dw.com",
+        "cat": "news"
+    },
+    {
+        "name": "中央社",
+        "url": "https://www.cna.com.tw/",
+        "cat": "news"
+    },
+    {
+        "name": "NHK新闻",
+        "url": "https://news.web.nhk/newsweb",
+        "cat": "news"
+    },
+    {
+        "name": "日经新闻",
+        "url": "https://www.nikkei.com/",
+        "cat": "news"
+    },
+    {
+        "name": "朝日新闻",
+        "url": "https://www.asahi.com/",
+        "cat": "news"
+    },
+    {
+        "name": "半岛电视台",
+        "url": "https://www.aljazeera.com",
+        "cat": "news"
+    },
+    {
+        "name": "阿拉伯新闻",
+        "url": "https://www.arabnews.com/",
+        "cat": "news"
+    },
+    {
+        "name": "路透社",
+        "url": "https://www.reuters.com/",
+        "cat": "news"
+    },
+    {
+        "name": "南华早报",
+        "url": "https://www.scmp.com/",
+        "cat": "news"
+    },
+    {
+        "name": "联合早报",
+        "url": "https://www.zaobao.com.sg/cn",
+        "cat": "news"
+    },
+    {
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com",
+        "cat": "video"
+    },
+    {
+        "name": "爱壹帆",
+        "url": "https://www.iyf.tv/",
+        "cat": "video"
+    },
+    {
+        "name": "Netflix",
+        "url": "https://www.netflix.com",
+        "cat": "video"
+    },
+    {
+        "name": "广播电台",
+        "url": "https://www.radio.cn/pc-portal/erji/radioStation.html",
+        "cat": "video"
+    },
+    {
+        "name": "美剧窝",
+        "url": "https://www.meijuwo.cc/",
+        "cat": "video"
+    },
+    {
+        "name": "海盗湾",
+        "url": "https://thepiratebay.org/index.html",
+        "cat": "video"
+    },
+    {
+        "name": "奈飞工厂",
+        "url": "https://www.netflixgc.com/",
+        "cat": "video"
+    }
+]
