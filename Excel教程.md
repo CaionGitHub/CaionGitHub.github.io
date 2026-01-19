@@ -156,6 +156,10 @@
 
 ## 综合应用
 
+* 标题: 财务人员工作必备的Excel操作技巧（52讲全）-张泽峰
+
+    - 链接: https://pan.quark.cn/s/3ca8fa418020
+
 * 标题: 财务工具-Excel财务模板设计（全）
 
     - 链接: https://pan.quark.cn/s/0ba799900c86
@@ -211,6 +215,7 @@
 * 标题: Excel教程Excel超强实战20例
 
     - 链接: https://pan.quark.cn/s/0401989acf9f
+
 
 
 
