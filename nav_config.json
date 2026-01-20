@@ -50,6 +50,21 @@
         "cat": "common"
     },
     {
+        "name": "Midjourney",
+        "url": "https://www.midjourney.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Canva",
+        "url": "https://www.canva.com/",
+        "cat": "common"
+    },
+    {
+        "name": "Suno",
+        "url": "https://suno.com/",
+        "cat": "common"
+    },
+    {
         "name": "Kimi",
         "url": "https://www.kimi.com/",
         "cat": "common"
@@ -60,8 +75,8 @@
         "cat": "common"
     },
     {
-        "name": "Midjourney",
-        "url": "https://www.midjourney.com/",
+        "name": "极梦",
+        "url": "https://jimeng.jianying.com/",
         "cat": "common"
     },
     {
@@ -70,13 +85,13 @@
         "cat": "common"
     },
     {
-        "name": "Suno",
-        "url": "https://suno.com/",
+        "name": "通义千问",
+        "url": "https://www.qianwen.com/?source=tongyigw",
         "cat": "common"
     },
     {
-        "name": "Canva",
-        "url": "https://www.canva.com/",
+        "name": "文心一言",
+        "url": "https://yiyan.baidu.com/",
         "cat": "common"
     },
     {
@@ -127,16 +142,6 @@
     {
         "name": "接码平台",
         "url": "https://5sim.net/zh/login",
-        "cat": "work"
-    },
-    {
-        "name": "魔戒",
-        "url": "https://mojie.me/#/login",
-        "cat": "work"
-    },
-    {
-        "name": "一云梯",
-        "url": "https://1ytcom01.1yunti.net/login",
         "cat": "work"
     },
     {
@@ -245,13 +250,13 @@
         "cat": "study"
     },
     {
-        "name": "觉晓法考",
-        "url": "https://www.juexiaotime.com/mycourse",
+        "name": "众合法考",
+        "url": "https://www.zhumavip.com/",
         "cat": "study"
     },
     {
-        "name": "众合法考",
-        "url": "https://www.zhumavip.com/",
+        "name": "觉晓法考",
+        "url": "https://www.juexiaotime.com/mycourse",
         "cat": "study"
     },
     {
@@ -270,23 +275,68 @@
         "cat": "study"
     },
     {
-        "name": "W3School",
-        "url": "https://www.w3school.com.cn/",
-        "cat": "study"
-    },
-    {
         "name": "慕课",
         "url": "https://www.icourse163.org/",
         "cat": "study"
     },
     {
-        "name": "Matlab文档",
-        "url": "https://jp.mathworks.com/help/matlab/index.html",
+        "name": "Python文档",
+        "url": "https://docs.python.org/zh-cn/3/",
         "cat": "study"
     },
     {
-        "name": "Python文档",
-        "url": "https://docs.python.org/zh-cn/3/",
+        "name": "Matlab文档",
+        "url": "https://matlabacademy.mathworks.com/cn/?page=1&sort=featured&s_tid=user_nav_learning",
+        "cat": "study"
+    },
+    {
+        "name": "MDN社区",
+        "url": "https://developer.mozilla.org/zh-CN/docs/Web",
+        "cat": "study"
+    },
+    {
+        "name": "W3中文社区",
+        "url": "https://www.w3school.com.cn/",
+        "cat": "study"
+    },
+    {
+        "name": "W3School",
+        "url": "https://www.w3schools.com/",
+        "cat": "study"
+    },
+    {
+        "name": "HTML元素",
+        "url": "https://html5.tool.webfrontend.dev/",
+        "cat": "study"
+    },
+    {
+        "name": "KittyNet",
+        "url": "https://kitty.su/",
+        "cat": "study"
+    },
+    {
+        "name": "一云梯",
+        "url": "https://1ytcom01.1yunti.net/login",
+        "cat": "study"
+    },
+    {
+        "name": "魔戒",
+        "url": "https://mojie.me/#/login",
+        "cat": "study"
+    },
+    {
+        "name": "资料小屋",
+        "url": "https://github.com/CaionGitHub/CaionGitHub.github.io/tree/main",
+        "cat": "study"
+    },
+    {
+        "name": "刑法罪名一揽",
+        "url": "http://www.chnlawyer.net/question/148.html",
+        "cat": "study"
+    },
+    {
+        "name": "刑法全文",
+        "url": "http://www.chnlawyer.net/law/xingfa.html",
         "cat": "study"
     },
     {
@@ -410,13 +460,18 @@
         "cat": "video"
     },
     {
-        "name": "海盗湾",
-        "url": "https://thepiratebay.org/index.html",
+        "name": "奈飞工厂",
+        "url": "https://www.netflixgc.com/",
         "cat": "video"
     },
     {
-        "name": "奈飞工厂",
-        "url": "https://www.netflixgc.com/",
+        "name": "磁力搜索",
+        "url": "https://skrbtso.top/",
+        "cat": "video"
+    },
+    {
+        "name": "海盗湾",
+        "url": "https://thepiratebay.org/index.html",
         "cat": "video"
     }
 ]
